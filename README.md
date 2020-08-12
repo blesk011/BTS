@@ -24,4 +24,5 @@ ___
 
 ___  
 ## Awards
-1등 수상
+naver ai burning day 2020 - 1등 수상  
+[link](https://campaign.naver.com/aihackathon_ai_burning), [github](https://github.com/Naver-AI-Hackathon/AI_Burning_Day)

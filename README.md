@@ -21,3 +21,7 @@ ___
 * [deepsegment](https://github.com/bedapudi6788/deepsegment)
 * [papagoNMT](https://www.ncloud.com/product/aiService/papagoNmt)
 * [tensorflowServer](https://www.ncloud.com/product/aiService/tensorFlowServer)
+
+___  
+## Awards
+1등 수상

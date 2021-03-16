@@ -1,6 +1,6 @@
 # __BTS - Best Translation Service__
 
-papago NMT API를 활용한 고품질 번역 유튜브 학습 보조 서비스  
+papago NMT API를 활용한 고품질 유튜브 한글 통번역 서비스  
 
 ___
 ## Team  
